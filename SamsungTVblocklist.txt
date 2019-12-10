@@ -111,3 +111,18 @@ stats.hbbtv.smartclip.net
 hbbtv.superrtl.de
 p-hbbtv.superrtl.de
 hbbtv.3sat.de
+
+# Netflix
+# secure, api-global, and appboot break Netflix
+#secure.netflix.com                   
+#api-global.netflix.com
+#appboot.netflix.com
+ichnaea.netflix.com
+customerevents.netflix.com
+nrdp.nccp.netflix.com
+
+# Spotify
+api-tv.spotify.com
+
+# Hulu
+api.distribution.hulu.com
